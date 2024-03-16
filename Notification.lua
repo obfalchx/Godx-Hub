@@ -73,7 +73,7 @@ local NotiFrame = Instance.new("Frame")
 		txdlid.Position = UDim2.new(0.25, 0, 0.15, 0)
 		txdlid.Size = UDim2.new(0, 175, 0, 24)
 		txdlid.Font = Enum.Font.LuckiestGuy	
-		txdlid.TextColor3 = Color3.fromRGB(50, 205, 50)
+		txdlid.TextColor3 = Color3.fromRGB(130, 130, 130)
 		txdlid.TextSize = 13.000
 		txdlid.Text = text
 		txdlid.TextXAlignment = Enum.TextXAlignment.Left
@@ -146,7 +146,7 @@ local NotiFrame = Instance.new("Frame")
 		end
 		)
 	end 
-	DiscordLib:Notification("Thông Báo" , "welcome to Godx™ Hub" , 6 ,16761490896 )
-	DiscordLib:Notification("Thông Báo" , "vào discord Godx™ để hưởng quyền công dân" , 6 ,16761490896 )
+	DiscordLib:Notification("ThĂ´ng BĂ¡o" , "welcome to Godxâ„¢ Hub" , 6 ,16761490896 )
+	DiscordLib:Notification("ThĂ´ng BĂ¡o" , "vĂ o discord Godxâ„¢ Ä‘á»ƒ hÆ°á»Ÿng quyá»n cĂ´ng dĂ¢n" , 6 ,16761490896 )
  local UserInputService = game:GetService("UserInputService")
  local TweenService = game:GetService("TweenService")
